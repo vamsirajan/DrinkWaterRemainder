@@ -6,7 +6,7 @@ if  __name__ == "__main__":
         notification.notify(
             title = "Please Drink Water!!!",
             message = "A Glass of water every hour is MUST!!!",
-            app_icon = "C:/Users/vamsi rajan/pythonpro/project1/glass.ico",  
+            app_icon = "C:/Users/vamsi rajan/pythonpro/DrinkWaterRemainder/glass.ico",  
             #Cannot directly place C:\Users\vamsi rajan\pythonpro\project1
             timeout = 10
         )
